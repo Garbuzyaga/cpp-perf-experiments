@@ -7,3 +7,6 @@ build/
 
 # IDE / OS
 .vscode/
+
+# Metadata
+*.csv
